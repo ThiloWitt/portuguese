@@ -1,0 +1,2 @@
+# portuguese
+Portuguese language pack
